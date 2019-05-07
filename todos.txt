@@ -1,0 +1,25 @@
++Scope
+-show all photos to all users => GET /photos
+-upload a photo => POST /photo/upload
+
++Tech
+-client => html/css/jquery
+-server => node/express
+
++Todos
+-npm init (express, multer, nodemon, bodyParser) x
+-basic file structure x
+ -/public
+  -index.html
+  -app.js
+  -stylesheets.css *
+  -/uploads
+ -/server
+  -index.js
+  -/controller
+    -photo.js
+-git init x
+-basic boilerplate/hello world x 
+-show ONE hardcoded photo x
+-show ALL photos (seeded) x
+-upload file func x
